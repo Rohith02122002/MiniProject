@@ -6,7 +6,7 @@ function saveOutputToJson( flightData) {
         const fileContent = fs.readFileSync(filePath);
         existingData = JSON.parse(fileContent);
 
-        existingData.push( flightData);
+        // existingData.push( flightData);
         fs.writeFileSync(filePath, JSON.stringify(existingData, null, 2));
       }
       
