@@ -1,0 +1,15 @@
+{
+  "baseUrl": "https://www.air.irctc.co.in/",
+  "routes": [
+    {
+      "origin": "mumbai",
+      "destination": "chennai",
+      "travelClass": "Business"
+    },
+    {
+      "origin": "hyd",
+      "destination": "pune",
+      "travelClass": "PremiumEconomy"
+    }
+  ]
+}

@@ -1,0 +1,142 @@
+[
+  {
+    "Route": "mumbai-chennai",
+    "flightCounts": {
+      "Air India": 26
+    },
+    "flightsAndFlightCode": [
+      {
+        "FlightName": "Air India",
+        "FlightCode": "AI-639"
+      },
+      {
+        "FlightName": "Air India",
+        "FlightCode": "AI-639"
+      },
+      {
+        "FlightName": "Air India",
+        "FlightCode": "AI-573"
+      },
+      {
+        "FlightName": "Air India",
+        "FlightCode": "AI-573"
+      },
+      {
+        "FlightName": "Air India",
+        "FlightCode": "AI-2988/AI-2833"
+      },
+      {
+        "FlightName": "Air India",
+        "FlightCode": "AI-2988/AI-2525"
+      },
+      {
+        "FlightName": "Air India",
+        "FlightCode": "AI-2401/AI-525"
+      },
+      {
+        "FlightName": "Air India",
+        "FlightCode": "AI-2857/AI-525"
+      },
+      {
+        "FlightName": "Air India",
+        "FlightCode": "AI-2401/AI-525"
+      },
+      {
+        "FlightName": "Air India",
+        "FlightCode": "AI-2857/AI-525"
+      },
+      {
+        "FlightName": "Air India",
+        "FlightCode": "AI-2988/AI-891"
+      },
+      {
+        "FlightName": "Air India",
+        "FlightCode": "AI-2988/AI-891"
+      },
+      {
+        "FlightName": "Air India",
+        "FlightCode": "AI-2619/AI-520/AI-525"
+      },
+      {
+        "FlightName": "Air India",
+        "FlightCode": "AI-2426/AI-891"
+      },
+      {
+        "FlightName": "Air India",
+        "FlightCode": "AI-2426/AI-891"
+      },
+      {
+        "FlightName": "Air India",
+        "FlightCode": "AI-2944/AI-540"
+      },
+      {
+        "FlightName": "Air India",
+        "FlightCode": "AI-2442/AI-540"
+      },
+      {
+        "FlightName": "Air India",
+        "FlightCode": "AI-2442/AI-540"
+      },
+      {
+        "FlightName": "Air India",
+        "FlightCode": "AI-2910/AI-540"
+      },
+      {
+        "FlightName": "Air India",
+        "FlightCode": "AI-2440/AI-540"
+      },
+      {
+        "FlightName": "Air India",
+        "FlightCode": "AI-2440/AI-540"
+      },
+      {
+        "FlightName": "Air India",
+        "FlightCode": "AI-2910/AI-540"
+      },
+      {
+        "FlightName": "Air India",
+        "FlightCode": "AI-2442/AI-2835"
+      },
+      {
+        "FlightName": "Air India",
+        "FlightCode": "AI-2944/AI-2835"
+      },
+      {
+        "FlightName": "Air India",
+        "FlightCode": "AI-2442/AI-2835"
+      },
+      {
+        "FlightName": "Air India",
+        "FlightCode": "AI-2944/AI-2835"
+      }
+    ]
+  },
+  {
+    "Route": "hyd-pune",
+    "flightCounts": {
+      "Air India": 5
+    },
+    "flightsAndFlightCode": [
+      {
+        "FlightName": "Air India",
+        "FlightCode": "AI-2880/AI-2609"
+      },
+      {
+        "FlightName": "Air India",
+        "FlightCode": "AI-2890/AI-2609"
+      },
+      {
+        "FlightName": "Air India",
+        "FlightCode": "AI-2890/AI-2973"
+      },
+      {
+        "FlightName": "Air India",
+        "FlightCode": "AI-2541/AI-2609"
+      },
+      {
+        "FlightName": "Air India",
+        "FlightCode": "AI-2541/AI-2973"
+      }
+    ]
+  }
+]

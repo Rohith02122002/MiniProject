@@ -1,0 +1,13 @@
+flightResults.json cleared at the beginning of test suite
+Selecting today's departure date...
+Selected date: 11
+Waiting for flight results to load...
+Flight data fetched successfully.
+Origin entered: Mumbai (BOM)
+Destination entered: Chennai (MAA)
+Departure date validated: 11-07-2025
+Flight data fetched successfully.
+{ 'Air India': 24 }
+Flight data written to JSON for route: mumbai-chennai
+Screenshot saved to: ./screenshots/mumbai-chennai.png
+Browser closed successfully.
