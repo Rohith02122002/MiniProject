@@ -2,7 +2,7 @@
   "baseUrl": "https://www.air.irctc.co.in/",
   "routes": [
     {
-      "origin": "mumbai",
+      "origin": "punei",
       "destination": "chennai",
       "travelClass": "Business"
     },
